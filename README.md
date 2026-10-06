@@ -38,7 +38,7 @@ It answers four management questions:
 
 ---
 
-## 🖥️ Dashboard Preview
+## 📸 Dashboard Preview
 
 <table>
   <tr>
@@ -85,7 +85,7 @@ Page-by-page walkthrough of every visual and the measures behind it → **[docs/
 
 ---
 
-## 🏗️ Solution Architecture
+## 🧱 Solution Architecture
 
 ```mermaid
 flowchart LR
