@@ -223,3 +223,7 @@ Details and rationale → [docs/model-review.md](docs/model-review.md)
 GitHub: [@tanmaymandal0207-cmyk](https://github.com/tanmaymandal0207-cmyk)
 
 <sub>Company name and branding are anonymised. Data is used for portfolio demonstration only.</sub>
+
+## © License
+
+Copyright © 2026 Tanmay Mandal. **All rights reserved.** No license is granted to copy, modify or redistribute this work. You may view it here for portfolio purposes.
