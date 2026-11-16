@@ -24,6 +24,7 @@ Professional restructure of the original upload.
 - 17 Oct 2026: README copyright and licence section (all rights reserved).
 - 18 Oct 2026: `.gitignore` for data extracts, Power BI / Excel temp and OS files.
 - 15 Nov 2026: added this changelog.
+- 16 Nov 2026: README links the changelog and related projects; repository tree lists `CHANGELOG.md`.
 
 ## v0.1 — 24 May 2026
 

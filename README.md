@@ -163,6 +163,7 @@ Full DAX for every measure, grouped by purpose → **[docs/dax-measures.md](docs
 ```text
 Commercial-Intelligence-Dashboard/
 ├── README.md                       ← you are here
+├── CHANGELOG.md                    ← release and maintenance history
 ├── dashboard/
 │   └── Commercial-Intelligence-Dashboard.pbix   ← Power BI report + model
 ├── assets/
@@ -214,6 +215,18 @@ Commercial-Intelligence-Dashboard/
 - [ ] Publish to Power BI Service with a public demo link
 
 Details and rationale → [docs/model-review.md](docs/model-review.md)
+
+---
+
+## 📝 Changelog
+
+Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 6 Oct 2026).
+
+## 🔗 Related Projects
+
+- [Superstore Sales Analysis](https://github.com/tanmaymandal0207-cmyk/superstore-sales-analysis-sql-powerbi): SQL-cleaned retail data modelled in Power BI
+- [Swift Condenser Demand Gap](https://github.com/tanmaymandal0207-cmyk/Swift_Condenser_Legacy_Analysis): SKU demand-gap study on automotive aftermarket dispatch history
+- [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation): challan vs stock reconciliation with an audit register
 
 ---
 
