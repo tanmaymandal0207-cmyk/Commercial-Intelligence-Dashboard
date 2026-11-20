@@ -225,7 +225,7 @@ Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 6 Oct 
 ## 🔗 Related Projects
 
 - [Superstore Sales Analysis](https://github.com/tanmaymandal0207-cmyk/superstore-sales-analysis-sql-powerbi): SQL-cleaned retail data modelled in Power BI
-- [Swift Condenser Demand Gap](https://github.com/tanmaymandal0207-cmyk/Swift_Condenser_Legacy_Analysis): SKU demand-gap study on automotive aftermarket dispatch history
+- [Condenser Forecast Analysis](https://github.com/tanmaymandal0207-cmyk/Condenser_Forecast_Analysis): sales history, data foundation and demand forecasting for an automotive AC condenser range
 - [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation): challan vs stock reconciliation with an audit register
 
 ---
