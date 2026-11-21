@@ -233,7 +233,7 @@ Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 6 Oct 
 ## 👤 Author
 
 **Tanmay Mandal** — Business Analyst · Operations & ERP analytics
-GitHub: [@tanmaymandal0207-cmyk](https://github.com/tanmaymandal0207-cmyk)
+GitHub: [@tanmaymandal0207-cmyk](https://github.com/tanmaymandal0207-cmyk) · LinkedIn: [Tanmay Mandal](https://www.linkedin.com/in/tanmay-mandal-286623247)
 
 <sub>Company name and branding are anonymised. Data is used for portfolio demonstration only.</sub>
 
