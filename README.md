@@ -16,7 +16,9 @@
   <a href="#-solution-architecture">Architecture</a> ·
   <a href="#-data-model">Data model</a> ·
   <a href="#-repository-structure">Structure</a> ·
-  <a href="#-how-to-use">How to use</a>
+  <a href="#-how-to-use">How to use</a> ·
+  <a href="#️-roadmap-v2">Roadmap</a> ·
+  <a href="#-related-projects">Related</a>
 </p>
 
 ---
