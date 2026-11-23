@@ -5,6 +5,8 @@
 ### Docs
 - README: Related Projects link updated to Condenser Forecast Analysis after that repository's rename (20 Nov 2026).
 - README: LinkedIn link added to the Author section (21 Nov 2026).
+- README: Roadmap and Related Projects added to the section navigation (22 Nov 2026).
+- README: back-to-top link above the Author section (23 Nov 2026).
 
 ## v1.0 — 6 Oct 2026
 
