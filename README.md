@@ -230,6 +230,8 @@ Release notes are in [CHANGELOG.md](CHANGELOG.md) (current release: v1.0, 6 Oct 
 - [Condenser Forecast Analysis](https://github.com/tanmaymandal0207-cmyk/Condenser_Forecast_Analysis): sales history, data foundation and demand forecasting for an automotive AC condenser range
 - [Inventory Reconciliation](https://github.com/tanmaymandal0207-cmyk/inventory-reconciliation): challan vs stock reconciliation with an audit register
 
+<p align="right"><a href="#top">↑ Back to top</a></p>
+
 ---
 
 ## 👤 Author
